@@ -1,0 +1,7 @@
+.env
+.spotify_token_cache
+.itunes_cache.json
+.playlists_data.json
+spotify2apple.html
+__pycache__/
+*.pyc
