@@ -1,0 +1,5 @@
+{
+  "outputDirectory": ".",
+  "builds": [{ "src": "spotify2apple.html", "use": "@vercel/static" }],
+  "routes": [{ "src": "/(.*)", "dest": "/spotify2apple.html" }]
+}
